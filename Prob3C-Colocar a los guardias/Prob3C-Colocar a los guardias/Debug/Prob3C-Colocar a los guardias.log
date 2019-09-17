@@ -1,0 +1,16 @@
+﻿Compilación iniciada a las 23/06/2019 11:42:41.
+     1>Proyecto "D:\TAIS 18-19\Prob3C-Colocar a los guardias\Prob3C-Colocar a los guardias\Prob3C-Colocar a los guardias.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\tais 18-19\prob3c-colocar a los guardias\prob3c-colocar a los guardias\source.cpp(18): warning C4018: '<' : no coinciden signed/unsigned
+     1>d:\tais 18-19\prob3c-colocar a los guardias\prob3c-colocar a los guardias\source.cpp(45): warning C4018: '<' : no coinciden signed/unsigned
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\TAIS 18-19\Prob3C-Colocar a los guardias\Prob3C-Colocar a los guardias\Debug\Prob3C-Colocar a los guardias.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\TAIS 18-19\Prob3C-Colocar a los guardias\Prob3C-Colocar a los guardias\Debug\Prob3C-Colocar a los guardias.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\TAIS 18-19\Prob3C-Colocar a los guardias\Prob3C-Colocar a los guardias\Debug\Prob3C-Colocar a los guardias.lib" /MACHINE:X86 Debug\Source.obj
+         LINK : no se encontró D:\TAIS 18-19\Prob3C-Colocar a los guardias\Prob3C-Colocar a los guardias\Debug\Prob3C-Colocar a los guardias.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+         Prob3C-Colocar a los guardias.vcxproj -> D:\TAIS 18-19\Prob3C-Colocar a los guardias\Prob3C-Colocar a los guardias\Debug\Prob3C-Colocar a los guardias.exe
+     1>Compilación del proyecto terminada "D:\TAIS 18-19\Prob3C-Colocar a los guardias\Prob3C-Colocar a los guardias\Prob3C-Colocar a los guardias.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:11.51

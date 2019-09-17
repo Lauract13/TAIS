@@ -1,0 +1,5 @@
+﻿  Source.cpp
+h:\tais 18-19\prob23-multitarea\segundo intento\prob23\source.cpp(42): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+h:\tais 18-19\prob23-multitarea\segundo intento\prob23\source.cpp(59): warning C4244: '+=': conversión de '__int64' a 'int'; posible pérdida de datos
+h:\tais 18-19\prob23-multitarea\segundo intento\prob23\source.cpp(61): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+  Prob23.vcxproj -> H:\TAIS 18-19\Prob23-Multitarea\Segundo intento\Debug\Prob23.exe
